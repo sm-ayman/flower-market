@@ -7,3 +7,7 @@
 .font-inter {
   font-family: "Inter", sans-serif;
 }
+
+.animate-spin {
+  animation: spin 15s linear infinite;
+}
